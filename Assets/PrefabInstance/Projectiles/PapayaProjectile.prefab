@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7190725726861288384
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 530807355163316080, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 530807355163316080, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 530807355163316080, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 530807355163316080, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 530807355163316080, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.49959922
+      objectReference: {fileID: 0}
+    - target: {fileID: 530807355163316080, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2595698281054774333, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 2595698281054774333, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 2595698281054774333, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7927a0d2a497bb343aecde01d9d85543,
+        type: 3}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628434754767712215, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7147287998275874686, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 283cdef2e87156942b221debae0d2dd4, type: 3}
+    - target: {fileID: 7215416351392171975, guid: 4a47d1cb26022c440b3ee2398d5b3f01,
+        type: 3}
+      propertyPath: m_Name
+      value: PapayaProjectile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4a47d1cb26022c440b3ee2398d5b3f01, type: 3}
